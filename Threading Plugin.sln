@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{E67EBF5C-AF63-D452-A5EF-713D396D1C3E}") = "Threading Plugin", "Assembly-CSharp-firstpass.csproj", "{348E799E-9206-6F1C-9FCB-5DFD1DBD561E}"
+EndProject
+Project("{E67EBF5C-AF63-D452-A5EF-713D396D1C3E}") = "Threading Plugin", "Assembly-CSharp.csproj", "{A1752987-5525-5B5D-9D9B-F1793C6C68D3}"
+EndProject
+Project("{E67EBF5C-AF63-D452-A5EF-713D396D1C3E}") = "Threading Plugin", "Assembly-CSharp-Editor-firstpass.csproj", "{64D387CE-5E93-14F2-45AC-23CD8C4A4ED5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{348E799E-9206-6F1C-9FCB-5DFD1DBD561E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{348E799E-9206-6F1C-9FCB-5DFD1DBD561E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{348E799E-9206-6F1C-9FCB-5DFD1DBD561E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{348E799E-9206-6F1C-9FCB-5DFD1DBD561E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1752987-5525-5B5D-9D9B-F1793C6C68D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1752987-5525-5B5D-9D9B-F1793C6C68D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1752987-5525-5B5D-9D9B-F1793C6C68D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1752987-5525-5B5D-9D9B-F1793C6C68D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64D387CE-5E93-14F2-45AC-23CD8C4A4ED5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64D387CE-5E93-14F2-45AC-23CD8C4A4ED5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64D387CE-5E93-14F2-45AC-23CD8C4A4ED5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64D387CE-5E93-14F2-45AC-23CD8C4A4ED5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

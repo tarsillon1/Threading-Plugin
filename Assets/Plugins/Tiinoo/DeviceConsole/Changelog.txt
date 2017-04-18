@@ -1,0 +1,21 @@
+Current Version: 2.0.3
+--------------------------------------------------
+
+2.0.3
+- CHANGE: Minor ui improvements.
+
+2.0.2
+- FIX: Can't show the logs written in OnApplicationFoucs event.
+
+2.0.1
+- NEW: Add 'canvas sort order' option in settings to ensure Device Console appear over your UI.
+- CHANGE: Rename the symbol which is used to disable Device Console from you builds.
+
+2.0.0
+- NEW: Redesign UI and implemented with UGUI. 
+- NEW: Filter the logs.
+- NEW: The logs you care about can be viewed separately.
+- NEW: Easy to disable it from your builds.
+
+1.0.0
+- Initial Release
