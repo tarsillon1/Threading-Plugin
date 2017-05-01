@@ -79,6 +79,9 @@
  <Reference Include="UnityEditor.TreeEditor">
  <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/TreeEditor/Editor/UnityEditor.TreeEditor.dll</HintPath>
  </Reference>
+ <Reference Include="DisableLogging">
+ <HintPath>/Users/nicktarsillo/dev/unity/projects/Threading Plugin/Assets/Plugins/Tiinoo/DisableLogging/Dlls/DisableLogging.dll</HintPath>
+ </Reference>
  <Reference Include="UnityEditor.Graphs">
  <HintPath>/Applications/Unity/Unity.app/Contents/Managed/UnityEditor.Graphs.dll</HintPath>
  </Reference>
@@ -90,9 +93,6 @@
  </Reference>
  <Reference Include="UnityEditor.OSXStandalone.Extensions">
  <HintPath>/Applications/Unity/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll</HintPath>
- </Reference>
- <Reference Include="DisableLogging">
- <HintPath>/Users/nicktarsillo/dev/unity/projects/Threading Plugin/Assets/Plugins/Tiinoo/DisableLogging/Dlls/DisableLogging.dll</HintPath>
  </Reference>
   </ItemGroup>
   <ItemGroup>
